@@ -12,6 +12,7 @@ Utilizei o "ChatGPT" para pesquisar guias práticos sobre organização, estrutu
 
 ## 🚀 Resultados
 O e-book oferece um guia prático para mães que trabalham em casa, ajudando-as a organizar melhor sua rotina, equilibrar o trabalho e as demandas da casa sem sobrecarga.
+[LINK PARA O E-BOOK AQUI](https://github.com/Denise-s-silva/Motherhood/blob/main/E-book-Organizacao-para-Maes-que-Trabalham-em-Casa.pdf)
 
 ## 💭 Reflexão (Opcional)
 Criar este e-book foi uma forma de transformar a minha experiência em algo valioso para outras mães que vivem desafios semelhantes aos meus.
