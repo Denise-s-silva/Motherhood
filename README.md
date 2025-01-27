@@ -4,8 +4,8 @@
 Este e-book de 10 páginas apresenta Dicas práticas para equilibrar trabalho, casa e maternidade com tranquilidade.
 
 ## 🤖 Tecnologias Utilizadas
-IA Generativa ChatGPT para roteirização;
-IA Generativa Gamma para criar a arte visual do e-book e para edição.
+- IA Generativa ChatGPT para roteirização;
+- IA Generativa Gamma para criar a arte visual do e-book e para edição.
 
 ## 🧐 Processo de Criação
 Utilizei o "ChatGPT" para pesquisar guias práticos sobre organização, estruturar o conteúdo e refinar minhas ideias sobre a maternidade. Por outro lado, o "Gamma" foi usado para montagem final.
